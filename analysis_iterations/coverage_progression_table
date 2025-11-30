@@ -1,0 +1,10 @@
+| Iteration | Tests | Total Coverage | Branch Coverage (main.py) | Improvement | Focus Area             |
+| --------- | ----- | -------------- | ------------------------- | ----------- | ---------------------- |
+| 1         | 5     | 28%            | 14%                       | Baseline    | Pantry basics          |
+| 2         | 9     | 36%            | 22%                       | +8% / +8%   | Recipe management      |
+| 3         | 13    | 43%            | 28%                       | +7% / +6%   | Ingredients            |
+| 4         | 21    | 60%            | 48%                       | +17% / +20% | Planning & listing     |
+| 5         | 29    | 78%            | 70%                       | +18% / +22% | Suggestions & shopping |
+| 6         | 45    | 85%            | 79%                       | +7% / +9%   | Validation edge cases  |
+| 7         | 66    | 96%            | 97%                       | +11% / +18% | Loop coverage          |
+| 8         | 73    | 96%            | 98%                       | 0% / +1%    | Final edge cases       |

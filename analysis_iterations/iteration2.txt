@@ -1,0 +1,28 @@
+Iteration 2 Summary:
+New Tests Added (4 recipe management tests):
+
+test_B1_create_recipe
+
+test_B2_create_recipe_twice
+
+test_B3_remove_recipe
+
+test_B4_remove_missing_recipe
+
+Coverage Progress:
+
+Previous (Iteration 1): 28% total coverage
+
+Current (Iteration 2): 36% total coverage (22% branch coverage)
+
+Improvement: +8% coverage
+
+Total Tests: 9 tests (5 from Iteration 1 + 4 new)
+
+Results:
+
+All 9 tests passed ✅
+
+No failures identified
+
+Coverage still well below 100% → Continue to Iteration 3

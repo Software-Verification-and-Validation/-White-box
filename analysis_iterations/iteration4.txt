@@ -1,0 +1,38 @@
+Iteration 4 Summary:
+New Tests Added (8 planning & listing tests):
+
+test_D1_plan_ok
+
+test_D2_plan_missing_recipe
+
+test_D3_unplan_ok
+
+test_D4_unplan_missing
+
+test_E1_list_pantry_empty
+
+test_E3_list_recipe_empty
+
+test_E4_list_recipe_missing
+
+test_E5_list_expiring_none
+
+Coverage Progress:
+
+Previous (Iteration 3): 43% total coverage (28% branch)
+
+Current (Iteration 4): 60% total coverage (48% branch)
+
+Improvement: +17% total coverage, +20% branch coverage 🚀
+
+Total Tests: 21 tests (13 from Iteration 3 + 8 new)
+
+Results:
+
+All 21 tests passed ✅
+
+No failures identified
+
+Excellent progress! Coverage jumped significantly
+
+Still below 100% → Continue to Iteration 5
