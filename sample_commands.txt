@@ -1,0 +1,15 @@
+add Milk Dairy 2025-11-01
+add Cheese Dairy 2025-11-02
+add TomatoSauce Vegetables 2025-11-03
+
+create recipe Pasta
+add ingredient Pasta Pasta 150 g
+add ingredient Pasta TomatoSauce 200 ml
+add ingredient Pasta Cheese 50 g
+
+list pantry
+list recipe Pasta
+plan Pasta 2025-11-05
+generate list
+suggest recipes
+list expiring
